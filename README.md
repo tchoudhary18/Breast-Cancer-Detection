@@ -191,12 +191,4 @@ breast-cancer-classification/
 
 ---
 
-## 🙋‍♀️ Author
-
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-profile)
-
----
-
 *If you found this project helpful, please consider giving it a ⭐ on GitHub!*
